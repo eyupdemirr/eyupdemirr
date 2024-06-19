@@ -16,7 +16,7 @@
 
 <a href="https://learn.microsoft.com/tr-tr/dotnet/csharp/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40"/> </a> 
 <a href="https://learn.microsoft.com/tr-tr/dotnet/welcome" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg" alt=".Net" width="40" height="40"/> </a> 
-<a href="https://docs.devexpress.com/eXpressAppFramework/112670/expressapp-framework" target="_blank" rel="noreferrer"> <img src="" alt="XAF" width="40" height="40"/> </a> 
+<a href="https://docs.devexpress.com/eXpressAppFramework/112670/expressapp-framework" target="_blank" rel="noreferrer"> <img src="" alt="" width="40" height="40"/> </a> 
 <a href="https://www.microsoft.com/en-us/sql-server/sql-server-downloads" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqldeveloper/sqldeveloper-original.svg" alt="XAF" width="40" height="40"/> </a> 
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
 <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> 
